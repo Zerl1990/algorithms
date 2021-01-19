@@ -39,13 +39,13 @@ For each function *f(n)* and time *t* in the following table, determine the larg
 |                      |     1 second               |    1 minute                    |     1 hour                       |     1 day                        |     1 month                       |     1 year                       |    1 centry                       |
 |----------------------|----------------------------|--------------------------------|----------------------------------|----------------------------------|-----------------------------------|----------------------------------|-----------------------------------|
 | lg<sub>2</sub>(n)    | 2<sup>10<sup>6</sup></sup> | 2<sup>6 x 10<sup>7</sup></sup> | 2<sup>36 x 10 <sup>8</sup></sup> | 2<sup>864 x 10<sup>8</sup></sup> | 2<sup>2.5 x 10<sup>12</sup></sup> | 2<sup>3.1 x 10<sup>13</sup></sup>| 2<sup>3.1 x 10<sup>16</sup></sup> |
-| &radic;n             | 10<sup>12</sup></sup>      | 36 x 10 <sup>14</sup>          | 1296 x 10 <sup>16</sup>           | 7.4 x 10 <sup>21</sup>          | 6.7 x 10 <sup>14</sup>             | 9.9 x 10 <sup>26</sup>          |  9.9 x 10 <sup>32</sup>           |
-|   n                  |
-| nlg<sub>2</sub>(n)   |
-|  n<sup>2</sup>       |
-|  n<sup>3</sup>       |
-|  2<sup>n</sup>       |
-|   n!                 |
+| &radic;n             | 10<sup>12</sup></sup>      | 36 x 10 <sup>14</sup>          | 1296 x 10 <sup>16</sup>          | 7.4 x 10 <sup>21</sup>           | 6.7 x 10 <sup>14</sup>            | 9.9 x 10 <sup>26</sup>           | 9.9 x 10 <sup>32</sup>            |
+|   n                  | 10<sup>6</sup>             | 6 x 10<sup>7</sup>             | 36 x 10<sup>8</sup>              | 864 x 10<sup>8</sup>             | 2.5 x 10<sup>12</sup>             | 3.1 x 10<sup>13</sup>            | 3.1 x 10<sup>16</sup>             |
+| nlg<sub>2</sub>(n)   | 62746                      | 2.8 x 10<sup>6</sup>           | 1.3 x 10<sup>8</sup>             | 2.7 x 10<sup>9</sup>             | 7.1 x 10<sup>10</sup>             | 7.9 x 10<sup>11</sup>            | 6.8 x 10<sup>13</sup>             |
+|  n<sup>2</sup>       | 1000                       | 7745                           | 60000                            | 293938                           | 1609968                           | 56515692                         | 56175382                          |
+|  n<sup>3</sup>       | 100                        | 391                            | 1532                             | 4420                             | 13736                             | 31593                            | 146677                            |
+|  2<sup>n</sup>       | 19.9                       | 25.8                           | 31.74                            | 36.33                            | 41.18                             | 44.81                            | 54.78                             |
+|   n!                 | 9                          | 11                             | 12                               | 13                               | 15                                | 16                               | 17                                |
 
 # Math Extra:
 1. https://www.khanacademy.org/math/cc-sixth-grade-math/cc-6th-arithmetic-operations/cc-6th-exponents/v/introduction-to-exponents
@@ -53,4 +53,6 @@ For each function *f(n)* and time *t* in the following table, determine the larg
 
 # Math Symbol Codes
 https://sites.psu.edu/symbolcodes/codehtml/#math
-https://www.chegg.com/homework-help/introduction-to-algorithms-3rd-edition-solutions-9780262258104?c_id=sem&utm_source=google&utm_medium=cpc&utm_campaign=hwh--long_tail_TBS_Dynamic_Computer_Science&matchtype=b&gclid=CjwKCAiA_9r_BRBZEiwAHZ_v1y1GiOiw6x6pSeifMdRPqYqQeaJ_yEmdD22IFhuuwbGqzfSo8t2-shoCqhAQAvD_BwE&gclsrc=aw.ds
+
+# Book solutions
+ce&matchtype=b&gclid=CjwKCAiA_9r_BRBZEiwAHZ_v1y1GiOiw6x6pSeifMdRPqYqQeaJ_yEmdD22IFhuuwbGqzfSo8t2-shoCqhAQAvD_BwE&gclsrc=aw.ds
